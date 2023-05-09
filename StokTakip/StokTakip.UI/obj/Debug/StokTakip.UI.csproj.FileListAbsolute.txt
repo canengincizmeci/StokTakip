@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\bin\Debug\StokTakip.UI.exe.config
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\bin\Debug\StokTakip.UI.exe
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\bin\Debug\StokTakip.UI.pdb
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.Form1.resources
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.Properties.Resources.resources
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.exe
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.pdb
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\bin\Debug\StokTakip.ORM.dll
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\bin\Debug\StokTakip.ORM.pdb
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.UrunlerForm.resources
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.csproj.CopyComplete
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.MusterilerForm.resources
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.KategorilerForm.resources
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.UI\obj\Debug\StokTakip.UI.SatislarForm.resources

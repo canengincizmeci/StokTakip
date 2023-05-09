@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.ORM\bin\Debug\StokTakip.ORM.dll
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.ORM\bin\Debug\StokTakip.ORM.pdb
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.ORM\obj\Debug\StokTakip.ORM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.ORM\obj\Debug\StokTakip.ORM.dll
+C:\Users\ASUS\source\repos\StokTakip\StokTakip.ORM\obj\Debug\StokTakip.ORM.pdb
